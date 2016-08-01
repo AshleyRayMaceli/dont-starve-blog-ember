@@ -1,3 +1,7 @@
+![Front Page] (screenshot1.png)
+
+![Comments section with avatar selection] (screenshot2.png)
+
 # Don't Starve Blog
 
 An Ember 2 web app that simulates what a blog made by Wilson of Don't Starve would look and function like.
